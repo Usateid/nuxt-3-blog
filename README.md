@@ -27,3 +27,7 @@ yarn build
 ```
 
 Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment).
+
+
+For Tailwind I used this guide
+[Tailwind Implementation](https://github.com/nuxt-community/tailwindcss-module/issues/387#issuecomment-956115637)
